@@ -37,9 +37,9 @@ div.users-count {
   text-align: left;
 }
 
-/*.none {*/
-  /*display: none !important;*/
-/*}*/
+.edit {
+  display: none !important;
+}
 
 /*body {*/
   /*background: rgba(0, 102, 255, 0.38);*/
